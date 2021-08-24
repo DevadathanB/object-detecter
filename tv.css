@@ -1,0 +1,21 @@
+body {
+    background-size: 1000px;
+    background-position: center;
+    text-align: center;
+    background-color: red;
+}
+
+.h1 {
+    text-align: center;
+    color: red;
+}
+
+.button {
+    text-align: center;
+    color: red;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
